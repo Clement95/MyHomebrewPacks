@@ -1,4 +1,4 @@
-# MyHomebrewLauncher3DS
+# MyHomebrewPacks
 
 Homebrew Packs for The Homebrew Launcher
 
