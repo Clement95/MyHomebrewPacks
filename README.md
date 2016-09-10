@@ -4,7 +4,7 @@ Homebrew Packs for The Homebrew Launcher
 
 # Homebrews
 
-# v1.0a
+# v1.0 alpha
 Here homebrews contained :
 
 - 4Rows
