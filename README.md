@@ -1,9 +1,10 @@
 # MyHomebrewLauncher3DS
 
-This is my custom Homebrew Launcher !
+Homebrew Packs for The Homebrew Launcher
 
 # Homebrews
 
+# v1.0a
 Here homebrews contained :
 
 - 4Rows
@@ -39,6 +40,9 @@ Here homebrews contained :
 - save_manager
 - Screenshot tool
 - Super ftpd II Turbo
+
+# Informations
+
 
 # 4Rows
 Connect4 game for Nintendo 3DS.
