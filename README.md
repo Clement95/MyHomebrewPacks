@@ -70,3 +70,61 @@ Game Boy Color emulator for 3DS. RetroArch3DS
 
 # GameYob
 Game Boy Color emulator for 3DS
+
+# Genesis Plus GX Libretro
+Genesis emulator for 3DS. RetroArch3DS
+
+# gbSP Libretro
+Game Boy Advance SP emulator for 3DS. RetroArch3DS
+
+# HANS
+Enhance your game experience.
+
+# JK's Save Manager
+Save Manager
+
+# menuhax_manager v3.1
+Tool for managing Home Menu haxx.
+https://github.com/yellows8/3ds_homemenuhax
+
+# mGBA
+mGBA Game Boy Advance Emulator
+
+# Multidownloader
+Download any file if it is a direct link
+
+# NinjaCam
+Ninja Camera App
+
+# NotifyMii
+Manage your notifications.
+
+# ORGANIZ3D
+Filebrowser for 3DS
+
+# PCHex++
+Pokemon save file editor
+
+# PCSX ReARMed
+Play Station 1 emulator for 3DS. RetroArch3DS
+
+# Play Coin Setter 3DSx
+Mo' Money, Mo' Problems.
+
+# Purgification
+Little tool for news purging
+
+# QuickNES Libretro
+Nintendo Entertainment System emulator for 3DS. RetroArch3DS
+
+# save_manager
+Hacky save manager for Ninjhax 2
+
+# Screenshot tool
+Exports raw screenshots to PNG
+
+# Snes9x 2010
+Super Nintendo Entertainment System emulator fo 3DS. RetroArch3DS
+
+# Super ftpd II Turbo
+FTP Server
