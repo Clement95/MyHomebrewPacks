@@ -4,8 +4,8 @@ Homebrew Packs for The Homebrew Launcher
 
 # Homebrews
 
-# v1.0 alpha
-Here homebrews contained :
+# v1.0 alpha (Initial release)
+Homebrews :
 
 - 4Rows
 - basehaxx
@@ -130,44 +130,11 @@ Super Nintendo Entertainment System emulator fo 3DS. RetroArch3DS
 FTP Server
 
 # v1.0
-Here homebrews contained :
+Homebrews added :
 
-- 4Rows
-- basehaxx
-- blargSnes
 - BLEND3R
-- braindump
-- BreadBox
-- BrewMan
-- CHMM2
-- CTRXplorer
-- DrawAttack
-- extdata_dump
-- Gambatte Libretro
-- GameYob
-- Genesis Plus GX Libretro
-- gpSP Libretro
-- HANS
-- Head tracking demo
-- ironhax
-- JK's Save Manager
-- Koopa Cruiser
-- menuhax_manager v3.1
-- mGBA
 - Labyrinth 3D
-- Multidownloader
-- NinjaCam
-- NotifyMii
-- ORGANI3D
-- PCHex++
-- PCSX ReARMed
-- Play Coin Setter 3DSx
-- Purgification
-- QuickNES Libretro
-- save_manager
-- Screenshot tool
 - Sunshell
-- Super ftpd II Turbo
 - WANT3D
 
 # Informations
