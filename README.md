@@ -67,6 +67,14 @@ Homebrews added :
 
 # Informations
 
+# 3DS Controller
+Control your PC with a Nintendo 3DS
+
+# 3DS Hangman
+Hangman game for 3DS
+
+# 3DSurfer
+Basic WAV audio player for 3DS
 
 # 4Rows
 Connect4 game for Nintendo 3DS.
@@ -80,8 +88,15 @@ Super Nintendo Entertainment System emulator for 3DS
 # BLEND3R
 Opensource 3D Model Viewer
 
+# BubbblePop
+BubblePop 3DS is a little 2D game
+
 # CHMM2
 Theme Manager for custom themes for Nintendo 3DS.
+
+# ctr-httpwn
+Bypass required sysupdates by exploiting a sysmodule.
+https://github.com/yellos8/ctr-httpwn
 
 # CTRXplorer
 Open source SD File Browser
@@ -91,6 +106,9 @@ Multiplayer drawing battle game
 
 # extdata_dump
 Dumps decrypted extra data to the SD card. Also allows y ou to edit and restore it
+
+# FileKong
+FTP Client for 3DS
 
 # Gambatte Libretro
 Game Boy Color emulator for 3DS. RetroArch3DS
@@ -138,14 +156,23 @@ Pokemon save file editor
 # PCSX ReARMed
 Play Station 1 emulator for 3DS. RetroArch3DS
 
+# PixelRoad
+Guide a tiny pixel through a dark road
+
 # Play Coin Setter 3DSx
 Mo' Money, Mo' Problems.
+
+# portal3DS
+Built wirh devkitARM & libctru
 
 # Purgification
 Little tool for news purging
 
 # QuickNES Libretro
 Nintendo Entertainment System emulator for 3DS. RetroArch3DS
+
+# RayCast3D Demo
+Tech demo for Lua-RayCast3D
 
 # save_manager
 Hacky save manager for Ninjhax 2
@@ -156,11 +183,20 @@ Exports raw screenshots to PNG
 # Snes9x 2010
 Super Nintendo Entertainment System emulator fo 3DS. RetroArch3DS
 
+# steelhax installer
+Use this to install steelhax to your system. Requires SteelDiver SubWars and an Internet connection
+
 # Super ftpd II Turbo
 FTP Server
 
 # Sunshell
 Multifunction shell for 3DS
+
+# svdt
+It's tdvs in reverse without the vowels
+
+# TriaAl
+Fanmade DeeMo Clone
 
 # WANT3D
 SM64DS Wanted Minigame Clone
