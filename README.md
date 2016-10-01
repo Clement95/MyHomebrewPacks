@@ -25,7 +25,6 @@ Homebrews :
 - Head tracking demo
 - ironhax
 - JK's Save Manager
-- Koopa Cruiser
 - menuhax_manager v3.1
 - mGBA
 - Multidownloader
