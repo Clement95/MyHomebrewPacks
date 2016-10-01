@@ -48,6 +48,23 @@ Homebrews added :
 - Sunshell
 - WANT3D
 
+# v1.1
+Homebrews added :
+
+- 3DS Controller
+- 3DS Hangman
+- 3DSurfer
+- BubblePop
+- ctr-httpwn
+- CTRXplorer 0.9.7
+- FileKong
+- PixelRoad
+- portal3DS
+- RayCast3D Demo
+- steelhax installer
+- svdt
+- TriaAl
+
 # Informations
 
 
